@@ -1,13 +1,19 @@
 # Fitness Tracker Data Exploration
 
-**Description:** This project explores Fitbit fitness tracker data. There are 18 CSV files which I narrow down to 4 core CSV files containing fitness data of users such as steps, calories loss, minutes sleep, etc. The main objective is to identify trends and insights regarding user health, behavior, and smart device usage that could be useful for health tech companies to improve their product and service offerings. The whole process is divided into 4 phases with each step and results described in a markdown report.
+**Project Overview:** This project delves into the exploration of Fitbit fitness tracker data. From 18 available CSV files, the focus is narrowed down to 4 core datasets that contain key information about user activities, such as step count, calorie burn, and sleep minutes. The goal is to uncover trends and insights related to user health, behavior, and smart device usage, which can help health tech companies enhance their products and services. The analysis is divided into 4 phases, with each step and result documented in a markdown report.
 
-**Tools:** RStudio and R Markdown.
+**Tools Used:** RStudio and R Markdown.
 
-**Skills:** Data importing, assaying, data cleaning (e.g.: duplicates handling, reformatting columns), data merging, descriptive statistics, aggregating and manipulating fields, data visualization, reporting.
+**Key Skills Applied:** 
+- Data importing and examination
+- Data cleaning (e.g., handling duplicates, reformatting columns)
+- Merging datasets
+- Descriptive statistics
+- Aggregating and transforming data
+- Data visualization and reporting
 
-**Outputs:** 
-- Report in `.md` format containing project details, processes, descriptions, findings, charts, and summary.
+**Deliverables:**
+- A `.md` report detailing the project workflow, processes, insights, visualizations, and conclusions.
   
 ## Datasets
 - `dailyActivity_merged.csv` - daily activity logs of users
@@ -24,4 +30,4 @@
   - Rows: 68
   
 ## Acknowledgements
-The data is publically available on [Zenodo website](https://zenodo.org/records/53894#.YMoUpnVKiP9) as well as Kaggle.
+The data was requested from Zenodo website.
