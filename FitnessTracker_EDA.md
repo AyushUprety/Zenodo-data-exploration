@@ -574,7 +574,7 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-12-1.png?raw=true)<!-- -->
+![](https://github.com/AyushUprety/Zenodo-data-exploration/blob/55bcf942f2d220d44ed6d8c1e5b0027dd60889c5/WellnessTracker_EDA_filesfigure-gfm/unnamed-chunk-12-1.png?raw=true)<!-- -->
    
 There is little to no relationship between **steps** and **sleep
 duration**.
@@ -630,7 +630,7 @@ ggplot(h_steps_weekday, aes(x= time, y= weekday,
         panel.background = element_blank())
 ```
 
-![](WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](https://github.com/AyushUprety/Zenodo-data-exploration/blob/55bcf942f2d220d44ed6d8c1e5b0027dd60889c5/WellnessTracker_EDA_filesfigure-gfm/unnamed-chunk-15-1.png?raw=true)<!-- -->
    
 During the weekday, users are usually more active during lunch time and
 between 4-7pm. While on Saturday, users are more active between
@@ -737,7 +737,7 @@ ggplot(data = avg_h_steps)+
   theme(axis.text.x = element_text(angle = 90))
 ```
 
-![](WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
+![](https://github.com/AyushUprety/Zenodo-data-exploration/blob/55bcf942f2d220d44ed6d8c1e5b0027dd60889c5/WellnessTracker_EDA_filesfigure-gfm/unnamed-chunk-21-1.png)<!-- -->
    
 From the graph, we can see that users are more active between **8pm to
 7pm**. They walk more steps during lunch time from **12pm to 2pm** and
