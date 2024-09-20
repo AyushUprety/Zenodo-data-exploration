@@ -556,7 +556,7 @@ ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](https://raw.githubusercontent.com/AyushUprety/Zenodo-data-exploration/main/WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-11-1.png)
+![](https://raw.githubusercontent.com/AyushUprety/Zenodo-data-exploration/main/WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-11-1.png?raw=true)
 <!-- -->
    
 There is a positive relationship between **steps** and **calories
@@ -574,7 +574,7 @@ ggplot(data = subset(activity_sleep, !is.na(totalminutesasleep)),
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-12-1.png?raw=true)<!-- -->
    
 There is little to no relationship between **steps** and **sleep
 duration**.
