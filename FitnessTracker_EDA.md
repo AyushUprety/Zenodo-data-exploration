@@ -1,6 +1,4 @@
 Fitness Tracker Data Exploration Using RStudio
-================
-By Supoj Xu (Sean)  
 
 
 ## Project Overview
