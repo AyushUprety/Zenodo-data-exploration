@@ -556,7 +556,7 @@ ggplot(data = activity_sleep, aes(x = totalsteps, y = calories))+
 
     ## `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
-![](https://raw.githubusercontent.com/AyushUprety/Zenodo-data-exploration/main/WellnessTracker_EDA_files/figure-gfm/unnamed-chunk-11-1.png?raw=true)
+![](https://github.com/AyushUprety/Zenodo-data-exploration/blob/94b733712d53da104dda02f23b37cffb25808159/WellnessTracker_EDA_filesfigure-gfm/unnamed-chunk-11-1.png?raw=true)
 <!-- -->
    
 There is a positive relationship between **steps** and **calories
